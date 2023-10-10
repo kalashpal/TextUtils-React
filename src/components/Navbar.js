@@ -27,11 +27,7 @@ export default function Navbar(props) {
                 Home
               </a>
             </li>
-            {/* <li className="nav-item">
-              <Link className="nav-link" to="/about">
-                {props.about}
-              </Link>
-            </li> */}
+           
           </ul>
           <form className="d-flex" role="search">
          
